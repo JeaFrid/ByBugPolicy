@@ -4,6 +4,7 @@ import 'package:bybug_policy/utils/fun.dart';
 import 'package:clipboard/clipboard.dart';
 import 'package:cosmos/cosmos.dart';
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -331,7 +332,62 @@ class _HomePageState extends State<HomePage> {
             Column(
               children: widgets,
             ),
-            const SizedBox(height: 60),
+            const SizedBox(height: 20),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              children: [
+                const SizedBox(),
+                const SizedBox(),
+                InkWell(
+                  focusColor: Colors.transparent,
+                  hoverColor: Colors.transparent,
+                  splashColor: Colors.transparent,
+                  highlightColor: Colors.transparent,
+                  onTap: () async {
+                    await launchUrl(
+                        Uri.parse("https://github.com/JeaFrid/ByBugPolicy"));
+                  },
+                  child: Text(
+                    "Github Kaynak Kodları",
+                    style: TextStyle(
+                      color: textColor,
+                      overflow: TextOverflow.ellipsis,
+                      fontSize: width(context) < 700 ? 10 : 12,
+                    ),
+                  ),
+                ),
+                InkWell(
+                  focusColor: Colors.transparent,
+                  hoverColor: Colors.transparent,
+                  splashColor: Colors.transparent,
+                  highlightColor: Colors.transparent,
+                  onTap: () async {
+                    await launchUrl(Uri.parse(
+                        "https://play.google.com/store/apps/details?id=net.bybug.policyapp"));
+                  },
+                  child: Text(
+                    "Uygulamayı İndir",
+                    style: TextStyle(
+                      color: textColor,
+                      overflow: TextOverflow.ellipsis,
+                      fontSize: width(context) < 700 ? 10 : 12,
+                    ),
+                  ),
+                ),
+                const SizedBox(),
+                const SizedBox(),
+              ],
+            ),
+            const SizedBox(height: 20),
+            Text(
+              "ByBug | JeaFriday | 2024",
+              style: TextStyle(
+                color: textColor.withOpacity(0.1),
+                overflow: TextOverflow.ellipsis,
+                fontWeight: FontWeight.w100,
+                fontSize: 10,
+              ),
+            ),
           ],
         ),
       ),

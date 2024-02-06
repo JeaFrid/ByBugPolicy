@@ -1,41 +1,39 @@
-# Gizlilik Politikası
+# ByBug Policy
 
-Son güncellenme: 07/02/2024
+ByBug Policy, gizlilik politikası, kullanım koşulları ve çerez politikası metinlerini hazırlayan bir Flutter uygulamasıdır.
 
-Güvenliğiniz bizim için önemli. Bu sebeple bizimle paylaşacağınız kişisel verileriz hassasiyetle korunmaktadır.
+## Nasıl Çalışır?
 
-Biz, , veri sorumlusu olarak, bu gizlilik ve kişisel verilerin korunması politikası ile, hangi kişisel verilerinizin hangi amaçla işleneceği, işlenen verilerin kimlerle ve neden paylaşılabileceği, veri işleme yöntemimiz ve hukuki sebeplerimiz ile; işlenen verilerinize ilişkin haklarınızın neler olduğu hususunda sizleri aydınlatmayı amaçlıyoruz.
+ByBug Policy uygulaması, kullanıcıların gizlilik politikası, kullanım koşulları ve çerez politikası metinlerini hızlı ve kolay bir şekilde oluşturmalarını sağlar. Kullanıcılar, uygulamayı kullanarak kendi gereksinimlerine uygun metinleri oluşturabilirler.
 
-## Toplanan Kişisel Verileriniz, Toplanma Yöntemi ve Hukuki Sebebi
+## Özellikler
 
-IP adresiniz ve kullanıcı aracısı bilgileriniz, sadece analiz yapmak amacıyla ve çerezler (cookies) vb. teknolojiler vasıtasıyla, otomatik veya otomatik olmayan yöntemlerle ve bazen de analitik sağlayıcılar, reklam ağları, arama bilgi sağlayıcıları, teknoloji sağlayıcıları gibi üçüncü taraflardan elde edilerek, kaydedilerek, depolanarak ve güncellenerek, aramızdaki hizmet ve sözleşme ilişkisi çerçevesinde ve süresince, meşru menfaat işleme şartına dayanılarak işlenecektir.
+- **Gizlilik Politikası Oluşturma:** Kullanıcılar, kişisel verilerin nasıl işleneceği, hangi amaçlarla kullanılacağı ve veri koruma politikaları hakkında detaylı bir gizlilik politikası metni oluşturabilirler.
+- **Kullanım Koşulları Belirleme:** Kullanıcılar, web sitesi veya uygulamanın kullanım koşullarını belirlemek için standart bir şablon kullanarak hızlıca bir kullanım koşulları metni oluşturabilirler.
+- **Çerez Politikası Oluşturma:** Kullanıcılar, çerezlerin ne olduğu, hangi amaçlarla kullanıldığı ve çerez tercihlerinin nasıl yönetileceği hakkında kapsamlı bir çerez politikası metni oluşturabilirler.
 
-## Kişisel Verilerinizin İşlenme Amacı
+## Kullanım
 
-Bizimle paylaştığınız kişisel verileriniz sadece analiz yapmak suretiyle; sunduğumuz hizmetlerin gerekliliklerini en iyi şekilde yerine getirebilmek, bu hizmetlere sizin tarafınızdan ulaşılabilmesini ve maksimum düzeyde faydalanılabilmesini sağlamak, hizmetlerimizi, ihtiyaçlarınız doğrultusunda geliştirebilmek ve sizleri daha geniş kapsamlı hizmet sağlayıcıları ile yasal çerçeveler içerisinde buluşturabilmek ve kanundan doğan zorunlulukların (kişisel verilerin talep halinde adli ve idari makamlarla paylaşılması) yerine getirilebilmesi amacıyla, sözleşme ve hizmet süresince, amacına uygun ve ölçülü bir şekilde işlenecek ve güncellenecektir.
+ByBug Policy uygulaması oldukça kullanıcı dostu bir arayüze sahiptir. Kullanıcılar, adımları takip ederek istedikleri politika metinlerini oluşturabilirler.
 
-## Toplanan Kişisel Verilerin Kimlere ve Hangi Amaçlarla Aktarılabileceği
+1. Uygulamayı açın.
+2. İlgili politika türünü seçin (Gizlilik Politikası, Kullanım Koşulları veya Çerez Politikası).
+3. Gerekli bilgileri doldurun.
+4. Metni oluşturun ve kaydedin.
+5. Oluşturulan metni dilediğiniz yerde kullanın.
 
-Bizimle paylaştığınız kişisel verileriniz; faaliyetlerimizi yürütmek üzere hizmet aldığımız ve/veya verdiğimiz, sözleşmesel ilişki içerisinde bulunduğumuz, iş birliği yaptığımız, yurt içi ve yurt dışındaki 3. şahıslar ile kurum ve kuruluşlara ve talep halinde adli ve idari makamlara, gerekli teknik ve idari önlemler alınması koşulu ile aktarılabilecektir.
+## Katkıda Bulunma
 
-## Kişisel Verileri İşlenen Kişi Olarak Haklarınız
-
-KVKK madde 11 uyarınca herkes, veri sorumlusuna başvurarak aşağıdaki haklarını kullanabilir:
-
-- Kişisel veri işlenip işlenmediğini öğrenme,
-- Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
-- Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
-- Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
-- Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme,
-- Kişisel verilerin silinmesini veya yok edilmesini isteme,
-- (e) ve (f) bentleri uyarınca yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
-- İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
-- Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme, haklarına sahiptir.
-
-Yukarıda sayılan haklarınızı kullanmak üzere  üzerinden bizimle iletişime geçebilirsiniz.
+Bu proje, Flutter kullanarak geliştirilmiştir. Katkıda bulunmak için GitHub deposunu ziyaret edebilir ve katkıda bulunma sürecine katılabilirsiniz.
 
 ## İletişim
 
-Sizlere hizmet sunabilmek amaçlı analizler yapabilmek için, sadece gerekli olan kişisel verilerinizin, işbu gizlilik ve kişisel verilerin işlenmesi politikası uyarınca işlenmesini, kabul edip etmemek hususunda tamamen özgürsünüz. Siteyi kullanmaya devam ettiğiniz takdirde kabul etmiş olduğunuz tarafımızca varsayılacak olup, daha ayrıntılı bilgi için bizimle  e-mail adresi üzerinden iletişime geçmekten lütfen çekinmeyiniz.
+Herhangi bir soru veya geri bildirim için [ByBug](mailto:bybugofficial@gmail.com) ile iletişime geçebilirsiniz.
 
-Bu gizlilik politikası, [https://sartlar.com](https://sartlar.com) aracılığıyla oluşturulmuştur.
+---
+
+*Bu readme dosyası, ByBug Policy uygulamasını tanıtmak amacıyla oluşturulmuştur. İlgili uygulama hakkında daha fazla bilgi almak için lütfen [ByBug](https://www.bybug.net/) web sitesini ziyaret edin.*
+
+[ByBug Policy Google Play Store](https://play.google.com/store/apps/details?id=net.bybug.policyapp)
+
+*UYARI: Bu kaynak kod deposu [JeaFriday](https://github.com/JeaFrid) tarafından geliştirilmiş bir depodur. Direkt kopyalayıp, Google Play Store, App Store, Web gibi platformlarda paylaşılamaz. Ticari amaçlarla kullanılması yalnızca ByBug'a ve JeaFriday'e mahsustur.*
